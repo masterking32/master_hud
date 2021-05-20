@@ -1,0 +1,51 @@
+.UI {
+	position: absolute;
+	right: 1%;
+	bottom: 1%;
+	background: url('bg.png') no-repeat 100% 100%;
+	width: 150px;
+	height: 170px;
+	text-align: center;
+	/**display: none;**/
+	opacity: 0.8;
+}
+
+.insideWatch{
+	margin-top: 15px;
+	text-align: center;
+	width: 100%;
+}
+
+.ldBar-label{
+	display: none;
+}
+@font-face {
+  font-family: 'clockf';
+  src: url(Quicksand-Light.ttf);
+}
+
+.clock {
+   font-family: clockf;
+   text-align: center;
+   text-shadow: 0 0 6px #000;
+   color: #fff;
+   letter-spacing: 5px;
+   user-select: none;
+   font-size: 0.8rem;
+   margin-bottom: 5px;
+}
+
+.speed {
+   font-family: clockf;
+   text-align: center;
+   text-shadow: 0 0 6px #000;
+   color: #fff;
+   user-select: none;
+   font-size: 12px;
+   margin-top: 10px;
+}
+
+.carIcons img{
+	margin-top: 5px;
+	max-height: 20px;
+}
