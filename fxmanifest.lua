@@ -12,11 +12,6 @@ client_scripts {
 	'client/*.lua'
 }
 
-server_scripts {
-	'server/main.lua',
-	'server/config.lua'
-}
-
 files {
 	'html/*.png',
 	'html/*.gif',
