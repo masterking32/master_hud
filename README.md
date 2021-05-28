@@ -10,6 +10,8 @@ I made that for my server. ([MasterCity.iR](https://MasterCity.iR))
 
 [Youtube video](https://youtu.be/Fskus4mhP6c)
 
+[CFX.net Topic](https://forum.cfx.re/t/release-new-smartwatch-hud/2926446/)
+
 # REQUIREMENTS
 - [extendedmode](https://github.com/extendedmode/extendedmode) (**Already Tested**) or [es_extended](https://github.com/esx-framework/es_extended)
 - [esx_status](https://github.com/esx-framework/esx_status)
@@ -27,3 +29,4 @@ git clone https://github.com/masterking32/master_hud master_hud
 start master_hud
 ```
 4) Copy `buckle.ogg` and `unbuckle.ogg` from `sounds` folder into the `interact-sound/client/html/sounds`.
+
