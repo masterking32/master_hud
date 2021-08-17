@@ -1,7 +1,7 @@
 # master_hud
 MasterCity.iR HUD (Smartwatch HUD by MasterkinG32)
 
-I made that for my server. ([MasterCity.iR](https://MasterCity.iR))
+([MasterkinG32.Store](https://MasterkinG32.Store))
 
 - Car seatbelt included.
 - Optimized.
