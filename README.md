@@ -1,7 +1,7 @@
 # master_hud
 MasterCity.iR HUD (Smartwatch HUD by MasterkinG32)
 
-([MasterkinG32.Store](https://MasterkinG32.Store))
+([MasterkinG32.Dev](https://MasterkinG32.dev))
 
 - Car seatbelt included.
 - Optimized.
